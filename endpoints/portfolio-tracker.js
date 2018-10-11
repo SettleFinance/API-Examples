@@ -1,5 +1,6 @@
 const RunEndpoints = require('../functions/run-endpoints')
 
+// User ID is required for all requests in this section
 var user_id = 'USER ID HERE'
 
 var requests = RunEndpoints(process.env.SETTLE_JSAPI, [
