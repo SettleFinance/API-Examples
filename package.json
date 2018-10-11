@@ -1,0 +1,20 @@
+{
+  "name": "settle-app-dev-examples",
+  "version": "1.0.0",
+  "description": "Example API & library usage of Settle services for app developers",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SettleFinance/Portfolio-API-Example.git"
+  },
+  "author": "Settle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SettleFinance/Portfolio-API-Example/issues"
+  },
+  "homepage": "https://github.com/SettleFinance/Portfolio-API-Example#readme"
+}
