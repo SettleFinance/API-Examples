@@ -4,6 +4,8 @@ This repo is intended to provide useful examples and re-usable code (Node.js) fo
 ## Setup
 Remember that for some API calls your app will need to be given specific permissions:
 
+To enroll as a developer, go to https://demo.settle.finance and click "developers". Create your app and copy api key and api secret. These will be used to authenticate your settle endpoints.
+
 ![Alt text](/docs/assets/img/app-permission.png?raw=true)
 
 In order to run any of the code examples found here you'll need to update the .env file with your own API key and secret:
