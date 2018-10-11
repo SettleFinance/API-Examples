@@ -1,5 +1,5 @@
-# SETTLE EXAMPLES
-This repo is intended to provide useful examples and re-usable code (Node.js) for developers making apps on Settle.
+# SETTLE API EXAMPLES
+This repo is intended to provide useful examples and re-usable code (Node.js) for app developers making api calls on Settle.
 
 ## Setup
 Remember that for some API calls your app will need to be given specific permissions:
@@ -34,4 +34,4 @@ node endpoints/portfolio-tracker
 node endpoints/price-feed
 ```
 
-Depending on what your app needs to do, you may want to use the test scripts directly as a starting point. If you need finer control of requests or would like to develop your own completely custom solution then check out the functions folder; [authenticated-request.js](https://github.com/SettleFinance/Portfolio-API-Example/blob/master/functions/authenticated-request.js) will provide a basic example of how to make endpoint requests following the basic auth requirements. 
+Depending on what your app needs to do, you may want to use the test scripts directly as a starting point. If you need finer control of requests or would like to develop your own completely custom solution then check out the functions folder; [authenticated-request.js](https://github.com/SettleFinance/API-Example/blob/master/functions/authenticated-request.js) will provide a basic example of how to make endpoint requests following the basic auth requirements. 
